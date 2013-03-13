@@ -2,6 +2,8 @@
 
 UserAgent is a Ruby library that parses and compares HTTP User Agents.
 
+{<img src="https://travis-ci.org/josh/useragent.png?branch=master" alt="Build Status" />}[https://travis-ci.org/josh/useragent]
+
 === Installation
 
   gem install useragent
